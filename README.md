@@ -1,8 +1,8 @@
 # How Many Tabs Do You Have Open? — make.fun entry
 
-[![Competition](https://make.fun/c/u-danu-how-many-tabs-do-you-have-open-d86e783d/badge.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
-[![Rank](https://make.fun/r/u-danu-how-many-tabs-do-you-have-open-d86e783d/ternakdana-52/badge.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
-[![Reward](https://make.fun/w/u-danu-how-many-tabs-do-you-have-open-d86e783d/ternakdana-52/badge.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![make.fun · u-danu-how-many-tabs-do-you-have-open-d86e783d](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![rank](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/ternakdana-52/u-danu-how-many-tabs-do-you-have-open-d86e783d-bot/rank.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
+[![reward](https://make.fun/badge/u-danu-how-many-tabs-do-you-have-open-d86e783d/ternakdana-52/u-danu-how-many-tabs-do-you-have-open-d86e783d-bot/reward.svg)](https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d?utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d)
 
 Entry for the make.fun bounty **"How Many Tabs Do You Have Open?"**
 (https://make.fun/bounty/u-danu-how-many-tabs-do-you-have-open-d86e783d) —
