@@ -7,11 +7,12 @@ Deterministic, no network, no randomness.
 
 import os
 
-# The chosen count: 87.
-# Surprising (far above the ~10-20 tabs most people keep open) yet fully
-# believable for someone who juggles dozens of crypto, airdrop and bounty
-# pages at once - a heavy tab hoarder, not an absurd shock figure.
-ENTRY = "87"
+# The chosen count: 1337.
+# A deliberate joke number (leet-speak) rather than a plain count: absurd
+# enough to stand out in a blind pairwise comparison, yet still a
+# plausible badge of honour for a heavy tab hoarder - the kind of person
+# who keeps a tab open "just in case" since 2019 and will never close it.
+ENTRY = "1337"
 
 
 def validate(entry: str) -> bytes:
